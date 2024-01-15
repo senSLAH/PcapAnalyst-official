@@ -1,0 +1,18 @@
+# Ignore build artifacts and executables
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+/out/
+libs/
+./Output/output.txt
+PcapAnalyst
+./Output/encrypted.txt
+# Ignore CLion project files
+.idea/
+
+# Ignore VSCode project files
+.vscode/
+
+# Ignore macOS-specific files
+.DS_Store
+
